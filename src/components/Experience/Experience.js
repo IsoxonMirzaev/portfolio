@@ -29,11 +29,6 @@ function Experience() {
         <img src={Img5} className="w-[200px] h-[200px]" alt="" />
         <img src={Img6} className="w-[200px] h-[200px]" alt="" />
       </div>
-      <div className="w-14 h-14 mt-10 cursor-pointer rounded-full bg-[#93B1A6] p-4 text-2xl text-white animate-bounce m-auto">
-        <Link to="home" smooth duration={700}>
-          <AiOutlineVerticalAlignTop />
-        </Link>
-      </div>
     </div>
   );
 }

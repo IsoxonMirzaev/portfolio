@@ -9,15 +9,14 @@ import { Link } from "react-scroll";
 function Projects() {
   return (
     <>
-      <div name="projects">
+      <div name="projects" className="sm:-mt-56">
         <div>
-          <h1 className="font text-5xl text-center mt-10 text-white">
+          <h1 className="font text-5xl text-center text-white">
             Projects
           </h1>
         </div>
-        <p> </p>
         <div>
-          <div className="flex justify-center  gap-10 mt-5 flex-wrap">
+          <div className="flex justify-center gap-10 mt-5 flex-wrap">
             <a href="https://clock-uzbekistan.netlify.app/" target="_blank" className="w-[500px]">
               <img src={Img1} alt="" />
             </a>
@@ -34,11 +33,6 @@ function Projects() {
             </a>
           </div>
         </div>
-      </div>
-      <div className="w-14 h-14 mt-5 cursor-pointer rounded-full bg-[#93B1A6] p-4 text-2xl text-white animate-bounce m-auto">
-        <Link to="experience" smooth duration={700}>
-          <GoMoveToBottom />
-        </Link>
       </div>
     </>
   );

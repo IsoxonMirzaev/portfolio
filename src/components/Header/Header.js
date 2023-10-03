@@ -43,11 +43,6 @@ function Header() {
           />
         </div>
       </div>
-      <div className="w-14 h-14 mt-52 md:-mt-16 cursor-pointer rounded-full bg-[#93B1A6] p-4 text-2xl text-white animate-bounce m-auto">
-        <Link to="about" smooth duration={700}>
-          <GoMoveToBottom />
-        </Link>
-      </div>
     </>
   );
 }
