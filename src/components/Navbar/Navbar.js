@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <div>
       <nav className="flex justify-between py-5 px-20 bg-[#183D3D] text-white w-full z-10 text-center fixed"> 
-        <Link className="text-3xl font italic m-auto">Mirzayev</Link>
+        <Link className="text-4xl font italic m-auto">Mirzayev</Link>
       </nav>
       <div className="fixed bottom-2 lg:bottom-8 w-full overflow-hidden z-50">
         <div className="container mx-auto">
