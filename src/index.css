@@ -4,5 +4,5 @@
 @tailwind utilities;
 .font{
     font-family: 'Tilt Prism', cursive;
-    /* user-select: none; */
+    user-select: none;
 }
