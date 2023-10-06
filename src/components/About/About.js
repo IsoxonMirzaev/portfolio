@@ -13,7 +13,7 @@ function About() {
           temporibus minus consequuntur nulla repellendus debitis quo eos,
           aperiam culpa. Repellat, facilis fugit.
         </p>
-        <p className="w-2/3 h-40 text-center m-auto text-white text-xl mt-44 md:mt-10~">
+        <p className="w-2/3 h-40 text-center m-auto text-white text-xl mt-44 md:mt-10">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut
           aspernatur suscipit laudantium, ad aliquid est deleniti autem sint
           explicabo libero blanditiis magnam error quod fugit maiores ut ipsam
