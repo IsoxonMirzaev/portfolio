@@ -8,7 +8,7 @@ import Img6 from "../../images/github-logo.png";
 
 function Experience() {
   return (
-    <div name="experience">
+    <div name="experience" className="pt-20">
       <div>
         <h1 className="font text-5xl text-white text-center mt-10">
           My Experience

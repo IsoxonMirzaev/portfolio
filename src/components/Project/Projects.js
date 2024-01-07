@@ -9,7 +9,7 @@ import { Link } from "react-scroll";
 function Projects() {
   return (
     <>
-      <div name="projects">
+      <div name="projects" className="pt-20">
         <div>
           <h1 className="font text-5xl text-center text-white">
             Projects
